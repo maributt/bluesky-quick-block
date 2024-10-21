@@ -57,7 +57,7 @@
                         button.style.background = "#ff000022";
 
                         button.addEventListener("click", async () => {
-                            
+
                             button.querySelector(".css-146c3p1").innerText = "User Blocked ✅";
                             button.style.background = "#00ff0022";
                             button.style.cursor = "default";
